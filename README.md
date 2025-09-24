@@ -1,4 +1,3 @@
-# Projeto_tecnologico_casa
 # Casa Sustentável e Tecnológica
 Este projeto apresenta uma maquete de uma unidade habitacional inteligente, integrando automação residencial, práticas sustentáveis e critérios de acessibilidade para otimizar o consumo de energia e reduzir o impacto ambiental.
 
